@@ -1,5 +1,6 @@
 # jones-akimbo
 A short text adventure made with Python's EasyGUI module.
+
 Interestingly enough, the idea for this concept came as a result of a login program I made while experimenting with EasyGUI.
 
 # Requirements:
