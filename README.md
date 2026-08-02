@@ -3,8 +3,8 @@ A short text adventure made with Python's EasyGUI module.
 
 
 # Requirements:
-Python 3
- - EasyGUI module
+* Python 3
+  * EasyGUI module
 
 
 
