@@ -1,5 +1,6 @@
-#The Adventures of Jones Akimbo (Version 1.00)
+#The Adventures of Jones Akimbo (Version 1.01)
 #Created April 21st, 2023
+#Last updated August 2nd, 2026
 #By Anthony Bart
 #This is a short text adventure heavily reliant on the easygui module.
 #Interestingly enough, the idea for this concept came as a result of a login program I made
