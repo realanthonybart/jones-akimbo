@@ -7,6 +7,8 @@ Interestingly enough, the idea for this concept came as a result of a login prog
 * Python 3
   * EasyGUI module
 
+# How to run:
+Upon downloading, just run the Python file in your Python terminal.
 
 
 
